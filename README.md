@@ -2,7 +2,7 @@
 
 ### Purpose
 This program is based on John Conway's Game of Life. It was created as the final project for the final project for my grade 12 computer science course, ICS4U.
-The main goal of this project was to create a program focusing on writing clean code and following object oriented program.
+The main goal of this project was to create a program focusing on writing clean code, following object oriented program, and creating several tests.
 
 ### Description:
 This program creates a 2D grid comprised of individual cell objects.
