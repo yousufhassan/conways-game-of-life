@@ -1,4 +1,4 @@
-# Game of Life by Yousuf Hassan.
+# Game of Life by Yousuf Hassan
 
 ### Purpose
 This program is based on John Conway's Game of Life. It was created as the final project for the final project for my grade 12 computer science course, ICS4U.
