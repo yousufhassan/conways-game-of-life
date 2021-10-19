@@ -1,10 +1,10 @@
-## Game of Life by Yousuf Hassan.
+# Game of Life by Yousuf Hassan.
 
-# Purpose
+### Purpose
 This program is based on John Conway's Game of Life. It was created as the final project for the final project for my grade 12 computer science course, ICS4U.
 The main goal of this project was to create a program focusing on writing clean code and following object oriented program.
 
-# Description:
+### Description:
 This program creates a 2D grid comprised of individual cell objects.
 The dimensions of the 2D grid are inputted by the user when they are prompted.
 It can only accept integer values.
@@ -35,7 +35,7 @@ Now it outputs the next generation of the grid to the console again.
 
 The application of the rules, getting the new values of the neighbours and outputting the next generation repeats until the user closes the program.
 
-# Rules of John Conway's Game of Life:
+### Rules of John Conway's Game of Life:
 <ol>	<li> A live cell with less than 2 neighbors will die (due to under population). </li>
 	<li> A live cell 2-3 neighbors lives on to the next generation. </li>
 	<li> A live cell with more than 3 neighbors dies (due to overpopulation). </li>
